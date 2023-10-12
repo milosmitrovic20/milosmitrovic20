@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hi, I'm Milos, a full-time full-stack freelance developer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🌱 I’m currently learning React  
+- 🌱 I’m currently learning React and Typescript
   
 
 - 🗣️ I speak English and Serbian   
