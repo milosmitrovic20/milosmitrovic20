@@ -1,13 +1,13 @@
-### <div align="center">👋 Hi, I'm Miloš</div>  
+### <div align="center">👋 Hi, I'm Miloš Pedercina</div>  
   
 
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently learning React and Typescript and how to get good penis in my ass
   
 
-- 🗣️ I speak English and Serbian   
+- 🗣️ I speak English and Serbian
   
 
-- ⚡ Fun fact: I'm a football player   
+- ⚡ Fun fact: I'm a football player(Pedercina)  
   
 
 <br/>  
