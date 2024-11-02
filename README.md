@@ -1,7 +1,7 @@
 ### <div align="center">👋 Hi, I'm Miloš</div>  
   
 
-- 🌱 I’m currently learning React and Typescript
+- 🌱 I’m currently learning Kotlin
   
 
 - 🗣️ I speak English and Serbian
